@@ -1,0 +1,10 @@
+C:\Users\darkw\Desktop\lab2graphics\bin\Debug\lab2graphics.exe.config
+C:\Users\darkw\Desktop\lab2graphics\bin\Debug\lab2graphics.exe
+C:\Users\darkw\Desktop\lab2graphics\bin\Debug\lab2graphics.pdb
+C:\Users\darkw\Desktop\lab2graphics\obj\Debug\lab2graphics.csproj.AssemblyReference.cache
+C:\Users\darkw\Desktop\lab2graphics\obj\Debug\lab2graphics.Form1.resources
+C:\Users\darkw\Desktop\lab2graphics\obj\Debug\lab2graphics.Properties.Resources.resources
+C:\Users\darkw\Desktop\lab2graphics\obj\Debug\lab2graphics.csproj.GenerateResource.cache
+C:\Users\darkw\Desktop\lab2graphics\obj\Debug\lab2graphics.csproj.CoreCompileInputs.cache
+C:\Users\darkw\Desktop\lab2graphics\obj\Debug\lab2graphics.exe
+C:\Users\darkw\Desktop\lab2graphics\obj\Debug\lab2graphics.pdb

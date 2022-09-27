@@ -1,0 +1,10 @@
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\bin\Debug\Lab2Task1.exe.config
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\bin\Debug\Lab2Task1.exe
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\bin\Debug\Lab2Task1.pdb
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\obj\Debug\Lab2Task1.csprojAssemblyReference.cache
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\obj\Debug\Lab2Task1.Form1.resources
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\obj\Debug\Lab2Task1.Properties.Resources.resources
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\obj\Debug\Lab2Task1.csproj.GenerateResource.cache
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\obj\Debug\Lab2Task1.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\obj\Debug\Lab2Task1.exe
+C:\Users\lenov\source\repos\Lab2Task1\Lab2Task1\obj\Debug\Lab2Task1.pdb

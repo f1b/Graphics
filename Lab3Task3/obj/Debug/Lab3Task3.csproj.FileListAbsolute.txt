@@ -1,0 +1,10 @@
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\bin\Debug\Lab3Task3.exe.config
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\bin\Debug\Lab3Task3.exe
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\bin\Debug\Lab3Task3.pdb
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\obj\Debug\Lab3Task3.csproj.AssemblyReference.cache
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\obj\Debug\Lab3Task3.Form1.resources
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\obj\Debug\Lab3Task3.Properties.Resources.resources
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\obj\Debug\Lab3Task3.csproj.GenerateResource.cache
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\obj\Debug\Lab3Task3.csproj.CoreCompileInputs.cache
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\obj\Debug\Lab3Task3.exe
+C:\Users\darkw\Desktop\Graphics\Lab3Task3\obj\Debug\Lab3Task3.pdb

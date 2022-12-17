@@ -1,0 +1,17 @@
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\bin\Debug\net48\Lab5.exe.config
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\bin\Debug\net48\Lab5.exe
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\bin\Debug\net48\Lab5.pdb
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.csproj.AssemblyReference.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.Form1.resources
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.FormBezier.resources
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.FormFractal.resources
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.FormMountains.resources
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.Properties.Resources.resources
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.csproj.GenerateResource.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.AssemblyInfoInputs.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.AssemblyInfo.cs
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.exe
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab5\Lab5\obj\Debug\net48\Lab5.pdb

@@ -1,0 +1,14 @@
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\bin\Release\net48\AutoKek.exe.config
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\bin\Release\net48\AutoKek.exe
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\bin\Release\net48\AutoKek.pdb
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.csproj.AssemblyReference.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.exe.config
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.Form1.resources
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.csproj.GenerateResource.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.AssemblyInfoInputs.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.AssemblyInfo.cs
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.exe
+D:\UNIVERSITY\4th year\Компьютерная графика\compGraphics-main\Lab4\AutoKek\obj\Release\net48\AutoKek.pdb
